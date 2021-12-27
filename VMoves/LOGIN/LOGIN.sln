@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOGIN", "LOGIN\LOGIN.csproj", "{030E31CA-05C5-4AB2-A525-D10E018960C9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FuelPort", "FuelPort\FuelPort.vdproj", "{85636B0C-04D7-4F79-B871-025621752CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030E31CA-05C5-4AB2-A525-D10E018960C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030E31CA-05C5-4AB2-A525-D10E018960C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030E31CA-05C5-4AB2-A525-D10E018960C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030E31CA-05C5-4AB2-A525-D10E018960C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85636B0C-04D7-4F79-B871-025621752CE2}.Debug|Any CPU.ActiveCfg = Debug
+		{85636B0C-04D7-4F79-B871-025621752CE2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A276FE32-6E7A-4B7C-B159-C1BE0D74F923}
+	EndGlobalSection
+EndGlobal
